@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @omerfbattir
-- 👀 I’m interested in Game Development
-- 🌱 I’m currently learning Unity
+- 👀 I’m interested in Front-End Web Development
+- 🌱 I’m currently learning React
 - 📫 How to reach me omerbattr68@gmail.com
 
 <!---
